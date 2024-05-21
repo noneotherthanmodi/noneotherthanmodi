@@ -35,6 +35,8 @@
            Tensorflow          Langchain          Numpy          Pandas          Sklearn           Matplotlib 
 
 
+
+◾
    
 <img src=".github/workflows/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="70" height="70"/><img src=".github/workflows/logo-light.svg" title="LangChain"  alt="LangChain" width="70" height="70"/><img src=".github/workflows/numpy-original.svg" title="Numpy" alt="Numpy" width="70" height="70"/><img src=".github/workflows/pandas-original.svg" title="Pandas" alt="Pandas" width="70" height="70"/><img src=".github/workflows/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="70" height="70"/><img src=".github/workflows/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="70" height="70"/>
 </div>
