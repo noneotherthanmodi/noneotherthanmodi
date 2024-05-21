@@ -32,7 +32,7 @@
 ### Frameworks:
 
 <div>
-   Tensorflow      Langchain      Numpy      Pandas      Sklearn       Matplotlib 
+           Tensorflow          Langchain          Numpy          Pandas          Sklearn           Matplotlib 
 
 
    
