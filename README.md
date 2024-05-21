@@ -21,7 +21,9 @@
 
 ### Languages:
 | Python3 | 
+
 |----------|----------|----------|-----|
+
 |  <img src=".github/workflows/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 </div>
 
