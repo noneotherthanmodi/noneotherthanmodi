@@ -16,14 +16,16 @@
 ⚡ Fun fact: I once participated in a spontaneous race with a self-driving car. Let's just say my vintage bike and I gave it a run for its algorithms! 🏍️🤖
 
 
+
+
 ## Languages and Tools 
 <div>
 
 ### Languages:
- Python3 
+    Python3 
 
 
-|  <img src=".github/workflows/python-original.svg" title="Python"  alt="Python" width="70" height="70"/> |
+<img src=".github/workflows/python-original.svg" title="Python"  alt="Python" width="70" height="70"/>
 </div>
 
 
