@@ -22,7 +22,7 @@
 <div>
 
 ### Languages:
-    Python3 
+   Python3 
 
 
 <img src=".github/workflows/python-original.svg" title="Python"  alt="Python" width="70" height="70"/>
