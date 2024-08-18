@@ -1,4 +1,4 @@
-# animated-enigma
+# **AI and Backend Developer**
 # Sarcasm Enthusiast and Tech Explorer Extraordinaire 🚀
 
 👋 Hey there, I'm Modi– your friendly neighborhood sarcasm connoisseur and tech aficionado.
